@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.idea/
+ai_vs_human_records.csv
